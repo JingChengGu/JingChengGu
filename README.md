@@ -4,7 +4,7 @@ I am currently a junior studying Data Science at UC San Diego (UCSD).
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Spotify Charts Project]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/JingChengGu/Spotify-Charts/tree/main))
 
 
 <h2>📺 Popular YouTube Videos</h2>
