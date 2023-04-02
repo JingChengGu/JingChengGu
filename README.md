@@ -6,6 +6,7 @@ I am currently a junior studying Data Science at UC San Diego (UCSD).
 - [Spotify Charts Project](https://github.com/JingChengGu/Spotify-Charts/tree/main)
 
 <h2>📚 Education:</h2>
+
 - University of California, Santa Cruz (2020 - 2022)
 - University of California, San Diego (2022 - 2024)
 
