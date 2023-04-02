@@ -36,8 +36,8 @@ I am currently a junior studying Data Science at UC San Diego (UCSD).
 
 <h2>Languages Spoken:</h2>
 
--English
--Chinese (Mandarin)
+- English
+- Chinese (Mandarin)
 
 <h2>Connect with me:</h2>
 
