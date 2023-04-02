@@ -34,6 +34,11 @@ I am currently a junior studying Data Science at UC San Diego (UCSD).
 - RedRock Biometrics
 - University of California, San Diego
 
+<h2>Languages Spoken:</h2>
+
+-English
+-Chinese (Mandarin)
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/jingchenggu)
