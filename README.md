@@ -30,6 +30,7 @@ I am currently a junior studying Data Science at UC San Diego (UCSD).
 - University of California, San Diego (2022 - 2024)
 
 <h2>Work Experience:</h2>
+
 - RedRock Biometrics
 - University of California, San Diego
 
