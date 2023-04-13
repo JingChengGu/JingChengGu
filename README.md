@@ -24,6 +24,7 @@ I am currently a junior studying Data Science at UC San Diego (UCSD).
 <h2>Data Science Projects:</h2>
 
 - [Spotify Charts Project](https://github.com/JingChengGu/Spotify-Charts/tree/main)
+- [Penguin Run Game](https://github.com/JingChengGu/Penguin-Run)
 
 <h2>Education:</h2>
 
