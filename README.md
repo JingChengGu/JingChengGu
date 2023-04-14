@@ -28,7 +28,7 @@ I am currently a junior studying Data Science at UC San Diego (UCSD). I have a p
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<h2>Data Science Projects:</h2>
+<h2>Data Science / Personal Projects:</h2>
 
 - [Spotify Charts Project](https://github.com/JingChengGu/spotify_charts)
 - [Wordle Simulator](https://github.com/JingChengGu/Wordle-Simulator)
