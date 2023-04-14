@@ -1,10 +1,12 @@
 <h1>Hi there, I'm Jason! 👋 </h1>
 I am currently a junior studying Data Science at UC San Diego (UCSD). I have a passion for learning new technologies and using data to find solutions to real world challenges.
 
+<h2>Get to know me:</h2>
+
 - I am currently working on my Google Data Analytics Certificate.
 - I am currently looking for summer 2023 internship opportunities in the feilds of data analysis, data analytics, and software engineering.
 - 2023 Goal: Contribute more to Open Source projects.
-- Fun fact: I love to play the guitar and sing.
+- Fun fact: I love singing and playing the guitar.
 
 <h2>Skills:</h2>
 
@@ -56,5 +58,8 @@ I am currently a junior studying Data Science at UC San Diego (UCSD). I have a p
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/jingchenggu)
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/@jasongu9233)
 
+
 <h2>Additional Info:</h2>
-- Reach me at: jaesongu@gmail.com(<h2>Connect with me:</h2>)
+
+- Reach me at: jaesongu@gmail.com
+
