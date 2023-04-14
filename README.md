@@ -28,9 +28,6 @@ I am currently a junior studying Data Science at UC San Diego (UCSD). I have a p
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
-
-
 <h2>Data Science Projects:</h2>
 
 - [Spotify Charts Project](https://github.com/JingChengGu/spotify_charts)
@@ -56,10 +53,7 @@ I am currently a junior studying Data Science at UC San Diego (UCSD). I have a p
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/jingchenggu)
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](jaesongu@gmail.com)
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/@jasongu9233)
 
-
-<h2>Additional Info:</h2>
-
-- Reach me at: jaesongu@gmail.com
 
