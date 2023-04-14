@@ -56,4 +56,6 @@ I am currently a junior studying Data Science at UC San Diego (UCSD). I have a p
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:jaesongu@gmail.com)
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/@jasongu9233)
 
+<h2>Additional Info:</h2>
 
+- Reach me at: (jaesongu@gmail.com)
