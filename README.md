@@ -6,7 +6,7 @@ I am currently a junior studying Data Science at UC San Diego (UCSD). I have a p
 - I am currently working on my Google Data Analytics Certificate.
 - I am currently looking for summer 2023 internship opportunities in the feilds of data analysis, data analytics, and software engineering.
 - 2023 Goal: Contribute more to Open Source projects.
-- Fun fact: I love singing and playing the guitar.
+- Fun fact: I love singing and playing the guitar :)
 
 <h2>Skills:</h2>
 
