@@ -29,7 +29,7 @@ I am currently a junior studying Data Science at UC San Diego (UCSD). I have a p
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <h2>Data Science / Personal Projects:</h2>
-
+- [EG Social Media Analysis](https://github.com/JingChengGu/EG-Social-Analysis)
 - [Wordle Simulator](https://github.com/JingChengGu/Wordle-Simulator)
 - [Wordle Solver](https://github.com/JingChengGu/Wordle-Solver)
 - [Penguin Run Game](https://github.com/JingChengGu/Penguin-Run)
