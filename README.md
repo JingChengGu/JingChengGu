@@ -43,7 +43,7 @@ I am currently a junior studying Data Science at UC San Diego (UCSD). I have a p
 
 <h2>Work Experience:</h2>
 
-- Mercur Health
+- Mercury Health
 - RedRock Biometrics
 - University of California, San Diego
 
