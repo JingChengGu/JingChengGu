@@ -30,6 +30,7 @@ I am currently a junior studying Data Science at UC San Diego (UCSD). I have a p
 
 <h2>Data Science / Personal Projects:</h2>
 
+- [Recipe Protein Prediction](https://jingchenggu.github.io/Protein_Prediction/)
 - [Recipe Protein Analysis](https://jingchenggu.github.io/Protein_Analysis/)
 - [EG Social Media Analysis](https://github.com/JingChengGu/EG-Social-Analysis)
 - [Wordle Simulator](https://github.com/JingChengGu/Wordle-Simulator)
