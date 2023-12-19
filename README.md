@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Jason! 👋 </h1>
-I am currently a junior studying Data Science at UC San Diego (UCSD). I have a passion for learning new technologies and using data to find solutions to real world challenges.
+I am currently a fourth year student studying Data Science at UC San Diego (UCSD). I have a passion for learning new technologies and using data to find solutions to real world challenges.
 
 <h2>Get to know me:</h2>
 
