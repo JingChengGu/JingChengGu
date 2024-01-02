@@ -1,7 +1,12 @@
 <h1>Hi there, I'm Jason! 👋 </h1>
 I am currently a fourth year student studying Data Science at UC San Diego (UCSD). I have a passion for learning new technologies and using data to find solutions to real world challenges.
 
+
+Resume: [Jason_Gu_Resume.pdf](https://github.com/JingChengGu/JingChengGu/files/13812969/Jason_Gu_Resume.pdf)
+
+
 <h2>Get to know me:</h2>
+
 
 - I am currently working on my Google Data Analytics Certificate.
 - I am currently looking for summer 2023 internship opportunities in the feilds of data analysis, data analytics, and software engineering.
@@ -40,7 +45,7 @@ I am currently a fourth year student studying Data Science at UC San Diego (UCSD
 <h2>Education:</h2>
 
 - University of California, Santa Cruz (2020 - 2022)
-- University of California, San Diego (2022 - 2024)
+- University of California, San Diego (2022 - 2025)
 
 <h2>Work Experience:</h2>
 
