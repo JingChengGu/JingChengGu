@@ -9,8 +9,8 @@ Resume: [Jason_Gu_Resume.pdf](https://github.com/JingChengGu/JingChengGu/files/1
 
 
 - I am currently working on my Google Data Analytics Certificate.
-- I am currently looking for summer 2023 internship opportunities in the feilds of data analysis, data analytics, and software engineering.
-- 2023 Goal: Contribute more to Open Source projects.
+- I am currently looking for summer 2024 internship opportunities in the fields of data analysis, data analytics, and software engineering.
+- 2024 Goal: Contribute more to Open Source projects.
 - Fun fact: I love singing and playing the guitar :)
 
 <h2>Skills:</h2>
