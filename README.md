@@ -35,6 +35,7 @@ Resume: [Jason_Gu_Resume.pdf](https://github.com/JingChengGu/JingChengGu/files/1
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <h2>Data Science / Personal Projects:</h2>
+
 - [Covid Worldwide Showcase](https://jingchenggu.github.io/Covid_Worldwide_Website/)
 - [Recipe Protein Prediction](https://jingchenggu.github.io/Protein_Prediction/)
 - [Recipe Protein Analysis](https://jingchenggu.github.io/Protein_Analysis/)
