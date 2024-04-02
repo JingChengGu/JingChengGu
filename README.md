@@ -1,8 +1,9 @@
 <h1>Hi there, I'm Jason! 👋 </h1>
-I am currently a fourth year student studying Data Science at UC San Diego (UCSD). I have a passion for learning new technologies and using data to find solutions to real world challenges.
+I am currently a fourth year student studying Data Science at UC San Diego (UCSD). I have a passion for learning new technologies and using data to find solutions to real-world challenges.
 
 
-Resume: [Jason_Gu_Resume.pdf](https://github.com/JingChengGu/JingChengGu/files/13812969/Jason_Gu_Resume.pdf)
+
+Resume: [Jason_Gu_Resume.pdf](https://github.com/JingChengGu/JingChengGu/files/14844619/Jason_Gu_Resume.pdf)
 
 
 <h2>Get to know me:</h2>
@@ -34,7 +35,7 @@ Resume: [Jason_Gu_Resume.pdf](https://github.com/JingChengGu/JingChengGu/files/1
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <h2>Data Science / Personal Projects:</h2>
-
+- [Covid Worldwide Showcase](https://jingchenggu.github.io/Covid_Worldwide_Website/)
 - [Recipe Protein Prediction](https://jingchenggu.github.io/Protein_Prediction/)
 - [Recipe Protein Analysis](https://jingchenggu.github.io/Protein_Analysis/)
 - [EG Social Media Analysis](https://github.com/JingChengGu/EG-Social-Analysis)
@@ -44,8 +45,7 @@ Resume: [Jason_Gu_Resume.pdf](https://github.com/JingChengGu/JingChengGu/files/1
 
 <h2>Education:</h2>
 
-- University of California, Santa Cruz (2020 - 2022)
-- University of California, San Diego (2022 - 2025)
+- University of California, San Diego (2021 - 2025)
 
 <h2>Work Experience:</h2>
 
