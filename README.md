@@ -50,7 +50,7 @@ Resume: [Jason_Gu_Resume.pdf](https://github.com/JingChengGu/JingChengGu/files/1
 
 <h2>Work Experience:</h2>
 
-- Mercury Health
+- Mercury Health AI
 - RedRock Biometrics
 - University of California, San Diego
 
