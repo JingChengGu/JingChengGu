@@ -39,6 +39,7 @@ Resume: [Jason_Gu_Resume.pdf](https://github.com/JingChengGu/JingChengGu/files/1
 - [Covid Worldwide Showcase](https://jingchenggu.github.io/Covid_Worldwide_Website/)
 - [Recipe Protein Prediction](https://jingchenggu.github.io/Protein_Prediction/)
 - [Recipe Protein Analysis](https://jingchenggu.github.io/Protein_Analysis/)
+- [Academic Performance Analysis at UCSD](https://github.com/JingChengGu/Academic_Performance_Analysis_at_UCSD/blob/main/MATH%20189_%20Final%20Report.pdf)
 - [EG Social Media Analysis](https://github.com/JingChengGu/EG-Social-Analysis)
 - [Wordle Simulator](https://github.com/JingChengGu/Wordle-Simulator)
 - [Wordle Solver](https://github.com/JingChengGu/Wordle-Solver)
