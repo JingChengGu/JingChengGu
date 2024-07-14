@@ -3,7 +3,7 @@ I am currently a fourth year student studying Data Science at UC San Diego (UCSD
 
 
 
-Resume: [Jason_Gu_Resume.pdf](https://github.com/JingChengGu/JingChengGu/files/14844619/Jason_Gu_Resume.pdf)
+Resume: [Jason_Gu_Resume.pdf](https://github.com/user-attachments/files/16216148/Jason_Gu_Resume.pdf)
 
 Personal Website: [Link](https://jingchenggu.github.io/)
 
