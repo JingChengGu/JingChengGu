@@ -39,6 +39,8 @@ Personal Website: [Link](https://jingchenggu.github.io/)
 
 <h2>Data Science / Personal Projects:</h2>
 
+- [SDG&E - FLARE (Fault Logging and Assessment for Responsive EV repairs)](https://jingchenggu.github.io/FLARE-website/)
+- [SDG&E - Exploratory Data Analysis on EV Charging Infrastructure](https://github.com/JingChengGu/DSC180A-SDGE-Q1/)
 - [Covid Worldwide Showcase](https://jingchenggu.github.io/Covid_Worldwide_Website/)
 - [Recipe Protein Prediction](https://jingchenggu.github.io/Protein_Prediction/)
 - [Recipe Protein Analysis](https://jingchenggu.github.io/Protein_Analysis/)
