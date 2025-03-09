@@ -11,9 +11,9 @@ Personal Website: [Link](https://jingchenggu.github.io/)
 <h2>Get to know me:</h2>
 
 
-- I am currently working on my Google Data Analytics Certificate.
-- I am currently looking for summer 2024 internship opportunities in the fields of data analysis, data analytics, and software engineering.
-- 2024 Goal: Contribute more to Open Source projects.
+- I am currently working with SDG&E's clean transportation team to build an EV charger fault detection software.
+- I am currently looking for opportunities in the fields of data analysis, data analytics, data science, and software engineering.
+- 2025 Goal: Contribute more to Open Source projects.
 - Fun fact: I love singing and playing the guitar :)
 
 <h2>Skills:</h2>
