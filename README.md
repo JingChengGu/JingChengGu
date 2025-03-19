@@ -57,6 +57,7 @@ Personal Website: [Link](https://jingchenggu.github.io/)
 
 <h2>Work Experience:</h2>
 
+- San Diego Gas & Electric
 - Mercury Alert AI
 - RedRock Biometrics
 - University of California, San Diego
