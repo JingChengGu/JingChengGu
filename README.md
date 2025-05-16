@@ -12,7 +12,7 @@ Personal Website: [Link](https://jingchenggu.github.io/)
 <h2>Get to know me:</h2>
 
 
-- I am currently working with SDG&E's clean transportation team to build an EV charger fault detection software.
+- I am currently working on a tech stock prices vs news sentiment dashboard using Airflow, Postgresql, Tableau, and Python!
 - I am currently looking for opportunities in the fields of data analysis, data analytics, data science, and software engineering.
 - 2025 Goal: Contribute more to Open Source projects.
 - Fun fact: I love singing and playing the guitar :)
