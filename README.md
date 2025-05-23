@@ -14,7 +14,7 @@ Personal Website: [Link](https://jingchenggu.github.io/)
 
 
 - I am currently working on a [Tech Stocks vs News Sentiment Dashboard](https://github.com/JingChengGu/Tech_Stocks_VS_News_Sentiment) using Airflow, Postgresql, Tableau, and Python!
-- I am currently looking for opportunities in the fields of data analysis, data analytics, data science, and software engineering.
+- I am currently looking for opportunities in the fields of data space. Including and not limited to data science, data analysis, data engineering, business analysis, and business intelligence. 
 - 2025 Goal: Contribute more to Open Source projects.
 - Fun fact: I love singing and playing the guitar :)
 
