@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Jason! 👋 </h1>
-I am currently a fourth year student studying Data Science at UC San Diego (UCSD). I have a passion for learning new technologies and using data to find solutions to real-world challenges.
+I recently earned a B.S. in Data Science from UC San Diego. I enjoy working with data to find practical solutions and improve how things work in both tech and business settings. I have experience with Python, SQL, Tableau, and AWS and I’m looking to apply those skills in a full-time role.
 
 
 
@@ -13,7 +13,7 @@ Personal Website: [Link](https://jingchenggu.github.io/)
 <h2>Get to know me:</h2>
 
 
-- I am currently working on a [Tech Stocks vs News Sentiment Dashboard](https://github.com/JingChengGu/Tech_Stocks_VS_News_Sentiment) using Airflow, Postgresql, Tableau, and Python!
+- I am currently working on a machine learning project, [Spotify Monthly Listeners Predictor](https://github.com/JingChengGu/spotify_monthly_listener_predictor), using Python, Pandas, Scikit-Learn, numpy, and Matplotlib!
 - I am currently looking for opportunities in the fields of data space. Including and not limited to data science, data analysis, data engineering, business analysis, and business intelligence. 
 - 2025 Goal: Contribute more to Open Source projects.
 - Fun fact: I love singing and playing the guitar :)
@@ -41,6 +41,7 @@ Personal Website: [Link](https://jingchenggu.github.io/)
 
 <h2>Data Science / Personal Projects:</h2>
 
+- [Tech Stocks VS News Sentiment Dashboard](https://github.com/JingChengGu/Tech_Stocks_VS_News_Sentiment)
 - [SDG&E - FLARE (Fault Logging and Assessment for Responsive EV repairs)](https://jingchenggu.github.io/FLARE-website/)
 - [SDG&E - Exploratory Data Analysis on EV Charging Infrastructure](https://github.com/JingChengGu/DSC180A-SDGE-Q1/)
 - [Covid Worldwide Showcase](https://jingchenggu.github.io/Covid_Worldwide_Website/)
