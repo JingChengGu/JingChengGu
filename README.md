@@ -13,7 +13,7 @@ Personal Website: [Link](https://jingchenggu.github.io/)
 <h2>Get to know me:</h2>
 
 
-- I am currently working on a machine learning project, [Spotify Monthly Listeners Predictor](https://github.com/JingChengGu/spotify_monthly_listener_predictor), using Python, Pandas, Scikit-Learn, numpy, and Matplotlib!
+- I am currently working on a machine learning project, [Spotify Monthly Listeners Predictor](https://github.com/JingChengGu/spotify_monthly_listener_predictor), implementing supervised learning regrssion models, including a MLP neural network, to predict artist monthly listeners.
 - I am currently looking for opportunities in the fields of data space. Including and not limited to data science, data analysis, data engineering, business analysis, and business intelligence. 
 - 2025 Goal: Contribute more to Open Source projects.
 - Fun fact: I love singing and playing the guitar :)
